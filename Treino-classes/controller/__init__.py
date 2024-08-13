@@ -1,0 +1,2 @@
+from .funcionario_controller import FuncionarioController
+from .tenis_controlller import TenisController
